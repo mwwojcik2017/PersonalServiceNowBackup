@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Testing Application 1 Table 1" language="en" table="x_10529_testing_ap_testing_application_1_table_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Testing Application 1 Table 1</label>
+            <language>en</language>
+            <name>x_10529_testing_ap_testing_application_1_table_1</name>
+            <plural>Testing Application 1 Table 1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-21 17:44:07</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>e2933442db2603008b1efabdbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Testing Application 1 Table 1</sys_name>
+            <sys_package display_value="Testing Application 1" source="x_10529_testing_ap">4a93348adb6203008b1efabdbf9619f9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Testing Application 1">4a93348adb6203008b1efabdbf9619f9</sys_scope>
+            <sys_update_name>sys_documentation_x_10529_testing_ap_testing_application_1_table_1__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-21 17:44:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
